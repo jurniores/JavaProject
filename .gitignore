@@ -1,0 +1,138 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/execoes/nbproject/private/
+/execoes/build/
+/exTratError/nbproject/private/
+/exTratError/build/
+/testes/nbproject/private/
+/chess-system/nbproject/private/
+/chess-system/build/
+/chess-system
+/lendoArquivos/nbproject/private/
+/lendoArquivos/build/
+/fileReader/nbproject/private/
+/fileReader/build/
+/fileWriteBufferedWrite/nbproject/private/
+/fileWriteBufferedWrite/build/
+/manipulandoPAstas/nbproject/private/
+/manipulandoPAstas/build/
+/infoDoCaminhoDosArquivos/nbproject/private/
+/infoDoCaminhoDosArquivos/build/
+/ExercicioLeituradeArquivos/nbproject/private/
+/ExercicioLeituradeArquivos/build/
+/interfacesComercio/nbproject/private/
+/interfacesComercio/build/
+/herancaMultipla/nbproject/private/
+/herancaMultipla/build/
+/IterfaceComparable/nbproject/private/
+/IterfaceComparable/build/
+/defaultMethod/nbproject/private/
+/defaultMethod/build/
+/Generics/nbproject/private/
+/Generics/build/
+/GenericosDelimitados/nbproject/private/
+/GenericosDelimitados/build/
+/TiposCuringas/nbproject/private/
+/TiposCuringas/build/
+/curingasDelimitados/nbproject/private/
+/curingasDelimitados/build/
+/curingaGetPut/nbproject/private/
+/curingaGetPut/build/
+/HashCodeEquals/nbproject/private/
+/HashCodeEquals/build/
+/set/nbproject/private/
+/set/build/
+/SetTestandoIgualdade/nbproject/private/
+/SetTestandoIgualdade/build/
+/TreeSetComparando/nbproject/private/
+/TreeSetComparando/build/
+/ExSet/nbproject/private/
+/ExSet/build/
+/ExSetProprio/nbproject/private/
+/ExSetProprio/build/
+/Map/nbproject/private/
+/Map/build/
+/ExMap/nbproject/private/
+/ExMap/build/
+/Comparator/nbproject/private/
+/30 - Comparator/nbproject/private/
+/30 - Comparator/build/
+/09- execoes/nbproject/private/
+/10 - exTratError/nbproject/private/
+/11 - fileReader/nbproject/private/
+/12 - fileWriteBufferedWrite/nbproject/private/
+/13 - herancaMultipla/nbproject/private/
+/14 - Generics/nbproject/private/
+/15 - GenericosDelimitados/nbproject/private/
+/16 - IterfaceComparable/nbproject/private/
+/17 - interfacesComercio/nbproject/private/
+/12-2 - lendoArquivos/nbproject/private/
+/12-3 - manipulandoPAstas/nbproject/private/
+/18  - TiposCuringas/nbproject/private/
+/10-1 - TratamentoDeErro/nbproject/private/
+/19 - curingasDelimitados/nbproject/private/
+/20 - curingaGetPut/nbproject/private/
+/14-1 - defaultMethod/nbproject/private/
+/22 - Map/nbproject/private/
+/12-4 - ExercicioLeituradeArquivos/nbproject/private/
+/22-1 - ExMap/nbproject/private/
+/21-3 - ExSet/nbproject/private/
+/24 - Comparator/nbproject/private/
+/Predicate/nbproject/private/
+/25 - Predicate/nbproject/private/
+/25 - Predicate/build/
+/26 - Consumer/nbproject/private/
+/26 - Consumer/build/
+/27 - Function/nbproject/private/
+/27 - Function/build/
+/28 - funcoesDeCallBack/nbproject/private/
+/28 - funcoesDeCallBack/build/
+/29 - Stream/nbproject/private/
+/29 - Stream/build/
+/30 - Pipelines/nbproject/private/
+/30 - Pipelines/build/
+/31 - ExResolvido/nbproject/private/
+/31 - ExResolvido/build/
+/32 - exFixacaoPipelines/nbproject/private/
+/32 - exFixacaoPipelines/build/
+/JDBC/JavaApplication64/nbproject/private/
+/JDBC/JavaApplication64/build/
+/JDBC/01_-_JDBC1/nbproject/private/
+/JDBC/01_-_JDBC1/build/
+/JDBC/01_-_ConnectMysql/nbproject/private/
+/JDBC/02_-_Inserir dados/nbproject/private/
+/JDBC/02_-_Inserir dados/build/
+/JDBC/02 - ExcluirDados/nbproject/private/
+/JDBC/02 - ExcluirDados/build/
+/JDBC/02 - EditarDados/nbproject/private/
+/JDBC/03 - EditarDados/nbproject/private/
+/JDBC/04 - DeletarDados/nbproject/private/
+/JDBC/04 - DeletarDados/build/
+/JDBC/05 - Transacoes/nbproject/private/
+/JDBC/05 - Transacoes/build/
+/Padrao_de_projetos_DAO/01- DAO/nbproject/private/
+/Padrao_de_projetos_DAO/01- DAO/build/
+/JDBC/JavaFX1/nbproject/private/
+/JDBC/JavaFX1/build/
+/JDBC/JavaFX1/dist/
