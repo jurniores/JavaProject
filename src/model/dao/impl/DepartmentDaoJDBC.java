@@ -8,6 +8,7 @@ package model.dao.impl;
 import com.mysql.jdbc.Statement;
 import db.DB;
 import db.DbException;
+import db.DbIntegrityException;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
@@ -95,7 +96,7 @@ public class DepartmentDaoJDBC implements DepartmentDao {
             }
             
         }catch(SQLException e){
-            throw new DbException("Não foi possível deletar o departamento! Error: "+e.getMessage());
+            throw new DbIntegrityException("Não foi possível deletar o departamento! Error: "+e.getMessage());
         }
         finally{
             DB.closeStatement(st);
